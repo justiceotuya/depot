@@ -1,0 +1,7 @@
+{
+  "workbench.colorCustomizations": {
+    "list.inactiveSelectionForeground": "#00E5E5",
+    "list.activeSelectionBackground": "#00a6a9",
+    "tree.indentGuidesStroke": "#d0d0d0"
+  }
+}
